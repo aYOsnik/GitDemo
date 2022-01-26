@@ -16,6 +16,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
         print("message")
         print("message 2")
+        print("message")
+        print("message 2")
 
         return true
     }
